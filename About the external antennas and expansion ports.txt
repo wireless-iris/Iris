@@ -1,0 +1,2 @@
+Default access to onboard antenna.If you want to DIY the external antenna, You can study the schematic diagram and diy an external antenna. 
+Expansion ports can do more things, such as connecting to DHT11 or DS18B20 or analog data collection.
